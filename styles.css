@@ -1,6 +1,7 @@
 
 /* Your CSS Code here. */
-div{
+p{
+	box-sizing:content-box;
 	background-color:lightblue;
 	width:300px;
 	border:15px,solid,blue;

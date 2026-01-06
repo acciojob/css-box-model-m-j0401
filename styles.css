@@ -1,9 +1,13 @@
 
 /* Your CSS Code here. */
+body{
+	border:15px solid blue;
+}
 div{
    background-color:lightblue;
+	box-sizing:content-box;
 	width:300px;
-	border:15px,solid,blue;
+	border:15px solid blue;
 	padding:50px;
 	margin:20px;
 }
